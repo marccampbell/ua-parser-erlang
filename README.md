@@ -1,4 +1,4 @@
-User Agent Parser
+User Agent Parser [![Build Status](https://secure.travis-ci.org/pusewicz/ua-parser-erlang.png)](http://travis-ci.org/pusewicz/ua-parser-erlang)
 =================
 
 This small library allows you to quickly extract the `platform` and `browser`
